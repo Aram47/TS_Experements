@@ -1,5 +1,3 @@
-function fooe(a: string) : string {
+export function fooe(a: string) : string {
     return a;
 }
-
-module.exports = fooe;

@@ -1,4 +1,4 @@
-const foo = require('./chlp');
+import {fooe} from './chlp';
 
 const a : string = "Aram";
-console.log(foo(a));
+console.log(fooe(a));
